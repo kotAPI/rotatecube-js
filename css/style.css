@@ -1,4 +1,7 @@
 body{
 	background-color: rgb(128,255,255);
 	margin:0;
+	padding: 50px;
+	margin: 20px solid;
+	border: 50px solid;
 }
